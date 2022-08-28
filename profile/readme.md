@@ -1,5 +1,5 @@
 <div align=center>
-<img src="./dutchdevs.png", width=128>
+<img src="https://raw.githubusercontent.com/Dutch-Devs/.github/main/profile/dutchdevs.png", width=128>
 
 # Dutch Devs
 
